@@ -160,3 +160,19 @@ h3{
     text-align: center;
 }
 
+footer{
+    font-family: "Myfont";     
+    width: 100%;
+    font-size: 3rem;
+    position: absolute;
+    bottom: auto;
+    padding-top: 40px;
+}
+
+footer p {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding-right: 45px;
+}
+
