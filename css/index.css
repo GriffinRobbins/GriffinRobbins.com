@@ -12,15 +12,15 @@ body{
 }
     
 .header img{
-    
+
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     padding-top: 10px;
-
-}
- .header p{
+    
+    }
+    .header p{
     font-family: 'Myfont';
     text-align: center;
     font-size: 4.5rem;
@@ -28,35 +28,36 @@ body{
     opacity: 90%;
     margin: auto;
     padding-top: 10px;
-}
-
-.Nav ul {
-    list-style: none;
-    font-family: 'Myfont';
-    color: #474747;
-    opacity: 90%;
-	font-size: 3.1rem;
-	margin: auto;
-}
-
-.Nav li {
-    float: left;
-    width: 33%;
-}
-
-.Nav li a {
-	
-	font-size: 3rem;
-	color: #474747;
-	text-decoration: none;
-	text-align: center;
-	
-}
-
-.Nav li a:visited {
-    color: #000000;
-    font-size: 3.2rem;
-}
+    }
+    
+    .Nav ul {
+        list-style: none;
+        font-family: 'Myfont';
+        color: #474747;
+        opacity: 90%;
+        font-size: 3.1rem;
+        margin: auto;
+        
+        }
+        
+        .Nav li {
+        float: left;
+        width: 33%;
+        }
+        
+        .Nav li a {
+        
+        font-size: 3rem;
+        color: #474747;
+        text-decoration: none;
+        text-align: center;
+        
+        }
+        
+        .Nav li a:visited {
+        color: #000000;
+        font-size: 3.2rem;
+        }
 
 footer{
     font-family: "Myfont";     
@@ -73,4 +74,6 @@ footer p {
     width: 50%;
     padding-right: 45px;
 }
+
+
 
