@@ -63,7 +63,8 @@ footer{
     width: 100%;
     font-size: 3rem;
     position: absolute;
-    bottom: 0;
+    bottom: auto;
+    padding-top: 40px;
 }
 
 footer p {
