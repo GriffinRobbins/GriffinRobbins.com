@@ -11,51 +11,42 @@ body{
 background-image: url('../images/White-Textured-Background.jpg');
 }
 
-.header img{
+header img{
 
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%;
-padding-top: 10px;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 10px;
+    
 }
+
 .header p{
-font-family: 'Myfont';
-text-align: center;
-font-size: 4.5rem;
-color: #474747;
-opacity: 90%;
-margin: auto;
-padding-top: 10px;
+    font-family: 'Myfont';
+    text-align: center;
+    font-size: 3.5rem;
+    color: #474747;
+    opacity: 90%;
+    margin: auto;
+    padding-top: 10px;
 }
 
 .Nav ul {
-list-style: none;
-font-family: 'Myfont';
-color: #474747;
-opacity: 90%;
-font-size: 3.1rem;
-margin: auto;
+    list-style: none;
+        
 }
-
-.Nav li {
-float: left;
-width: 33%;
-}
-
+        
+        
 .Nav li a {
-
-font-size: 3rem;
-color: #474747;
-text-decoration: none;
-text-align: center;
-
-}
-
-.Nav li a:visited {
-color: #000000;
-font-size: 3.2rem;
+    display: block;
+    margin: auto;
+    font-family: 'Myfont';
+    color: #474747;
+    opacity: 90%;    
+    float: left;
+    width: 33%;
+    font-size: 2rem;
+    text-decoration: none;
 }
 
 .QuantumRobbers,.Ragball, .ATrebledMan, .SolelyBasil, .RocketScience{
@@ -76,7 +67,7 @@ h2{
     margin: auto;
 }
 
- p{
+p{
     font-size: 2.3rem;
     padding: 0 20px;
 }
@@ -112,7 +103,7 @@ button{
 footer{
     font-family: "Myfont";     
     width: 100%;
-    font-size: 3rem;
+    font-size: 2rem;
     position: absolute;
     bottom: auto;
     padding-top: 40px;
@@ -122,7 +113,7 @@ footer p {
     display: block;
     margin: auto;
     width: 50%;
-    padding-right: 45px;
+    padding-right: 90px;
 }
 
 
