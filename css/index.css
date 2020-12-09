@@ -1,7 +1,7 @@
 @font-face {
         font-family: 'Myfont';
-        src: url('../fonts/Myfont-Regular.woff2') format('woff2'),
-            url('../fonts/Myfont-Regular.woff') format('woff');
+        src: url('../fonts/myfont-regular.woff2') format('woff2'),
+            url('../fonts/myfont-regular.woff') format('woff');
         font-weight: normal;
         font-style: normal;
         font-display: swap;
